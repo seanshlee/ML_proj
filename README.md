@@ -10,7 +10,7 @@
 - 원핫인코딩 : 'ParentEduc', 'PracticeSport' 변수에 대해서만 원핫인코딩 처리.
 - TotalMeans 생성 : 학생들의 수학, 작문, 독해 점수의 평균을 나타내는 TotalMeans 변수 생성.
 
-2.2. ML 모델 적용 
+2.2. ML 모델 적용\
 Random Forest -> r2_score : 0.223 \
 XGBoost -> r2_score : 0.223 \
 Ligth GBM -> r2_score :0.223
